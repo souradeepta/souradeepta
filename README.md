@@ -32,5 +32,5 @@ on my ![zenbook badge](https://img.shields.io/badge/windows-asus%20zenbook%203-%
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: sdb.svnit@gmail.com
 - 🎯 Portfolio site: [Portfolio](https://souradeepta.github.io)
-- 🔔 Follow:- [Souradeepta](https://www.instagram.com/daft_wanderer)
+- 🔔 Instagram: [Souradeepta](https://www.instagram.com/daft_wanderer)
 
