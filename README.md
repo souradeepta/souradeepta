@@ -1,5 +1,3 @@
-<h2> Hi, I'm Souradeepta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-
 
 <h1 align="center">Hi 👋, I'm Souradeepta</h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 <h3 align="center">A passionate Fullstack developer and machine learning enthusiast at Seattle</h3>
