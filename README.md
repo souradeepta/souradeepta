@@ -10,7 +10,7 @@
 I work on:
 - Front-end development using **React/Redux, Javascript, CSS,and Bootstrap**
 - Backend development using **Java, C#,and Node**
-- Developing Machine Learning models using [Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+- Developing Machine Learning models using [![Python Badge](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 - Creating scalable cloud architecture using **AWS Cloud**
 - Solving Data structure and algorithm questions in **Java, C++ and Python**
 
