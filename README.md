@@ -12,8 +12,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-souradeepta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minalvaity/)](https://www.linkedin.com/in/souradeepta/) 
 [![Gmail Badge](https://img.shields.io/badge/-sdb.svnit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minal.vaity95@gmail.com)](mailto:sdb.svnit@gmail.com)
 
-- 📄 Know about my experiences [https://souradeepta.github.io/Resume.pdf](https://souradeepta.github.io/Resume.pdf)
-
+<!-- - 📄 Know about my experiences [https://souradeepta.github.io/Resume.pdf](https://souradeepta.github.io/Resume.pdf)
+ -->
 - ⚡ Fun fact **I love hiking.**
 
 <h3 align="left">Connect with me:</h3>
